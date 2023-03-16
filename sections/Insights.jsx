@@ -2,7 +2,7 @@
 
 const Insights = () => (
   <section>
-    Insights sections
+    Insights section
   </section>
 );
 
